@@ -1,0 +1,10 @@
+name: rdf
+channels:
+  - conda-forge
+dependencies:
+  - python >3.8, <3.12
+  - pyscal3 >=3.1.12
+  - rdflib
+  - pyyaml
+  - jupyterlab
+  - atomrdf
