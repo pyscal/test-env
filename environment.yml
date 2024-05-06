@@ -8,3 +8,5 @@ dependencies:
   - pyyaml
   - jupyterlab
   - atomrdf
+  - matplotlib
+  - numpy
